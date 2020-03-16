@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oohiecugoo.mariosaraiva.com/sitemap.xml
